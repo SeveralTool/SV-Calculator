@@ -1,2 +1,2 @@
 # SV-Calculator
-Calñculadora desarollada en React Native para Android
+Calculadora desarollada en TypeScript con React Native para Android.
